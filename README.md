@@ -18,7 +18,7 @@ Passionate business administration graduate and software engineer committed to d
 
 <br />
 
-| <a href="https://github.com/asc33nzio"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asc33nzio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Amadeo Marli's github stats" /></a> | <a href="https://github.com/asc33nzio"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asc33nzio&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=asc33nzio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="asc33nzio's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asc33nzio&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## LeetCode Stats! ([profile](https://leetcode.com/asc33nzio))
