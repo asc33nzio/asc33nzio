@@ -18,14 +18,19 @@ Passionate business administration graduate and software engineer committed to d
 
 <br />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=asc33nzio&show_icons=true&include_all_commits=true&theme=radical&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="asc33nzio's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asc33nzio&layout=donut&theme=radical&hide_border=false&langs_count=20" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=asc33nzio&show_icons=true&include_all_commits=true&theme=radical&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=26" alt="asc33nzio's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asc33nzio&layout=donut-vertical&theme=radical&hide_border=false&langs_count=20" /></a> |
 | ------------- | ------------- |
 
 <!-- ## [LeetCode Statistics](https://leetcode.com/asc33nzio)
 [![Amadeo Marli's LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=asc33nzio&theme=dark)](https://leetcode.com/asc33nzio) -->
 
 <div align="center">
-  <a href="https://leetcode.com/asc33nzio">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=asc33nzio&theme=dark" alt="Amadeo Marli's LeetCode Stats" />
-  </a>
+    <p align="left">
+        <a href="https://leetcode.com/asc33nzio" style="text-decoration: none;">
+            <h3>LeetCode Statistics</h3>
+        </a>
+    </p>
+    <a href="https://leetcode.com/asc33nzio">
+        <img src="https://leetcode-stats-six.vercel.app/api?username=asc33nzio&theme=dark" alt="Amadeo Marli's LeetCode Stats" />
+    </a>
 </div>
