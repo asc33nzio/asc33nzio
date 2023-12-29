@@ -27,7 +27,7 @@ Passionate business administration graduate and software engineer committed to d
 <div align="center">
     <p align="center">
         <a href="https://leetcode.com/asc33nzio" style="text-decoration: none;">
-            <h2 color="#D73B7B">LeetCode Statistics</h2>
+            <h2 style="color: #D73B7B;">LeetCode Statistics</h2>
         </a>
     </p>
     <a href="https://leetcode.com/asc33nzio">
