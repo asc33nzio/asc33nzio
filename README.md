@@ -18,14 +18,14 @@ Passionate business administration graduate and software engineer committed to d
 
 <br />
 
+<p align="center"><img width="75%" alt="GitHub Stats" src="./assets/gh-stats-header.png" /></p>
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=asc33nzio&show_icons=true&include_all_commits=true&theme=radical&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=28" alt="asc33nzio's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asc33nzio&layout=donut-vertical&theme=radical&hide_border=false&langs_count=20" /></a> |
 | ------------- | ------------- |
 
 <div align="center">
-    <!-- <a href="https://leetcode.com/asc33nzio"> -->
-        <span style="color: #D73B7B">LeetCode Statistics</span>
-    <!-- </a> -->
-    <a href="https://leetcode.com/asc33nzio">
-        <img src="https://leetcode-stats-six.vercel.app/api?username=asc33nzio&theme=dark" alt="Amadeo Marli's LeetCode Stats" />
-    </a>
+    <p align="center"><a href="https://leetcode.com/asc33nzio"><img width="75%" alt="L33tcode Stats" src="./assets/l33tcode-stats-header.png" /></a></p>
+        <a href="https://leetcode.com/asc33nzio">
+            <img src="https://leetcode-stats-six.vercel.app/api?username=asc33nzio&theme=dark" alt="Amadeo Marli's LeetCode Stats" />
+        </a>
 </div>
