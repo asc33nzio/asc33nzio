@@ -18,8 +18,8 @@ Passionate business administration graduate and software engineer committed to d
 
 <br />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=asc33nzio&show_icons=true&include_all_commits=true&theme=radical&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="asc33nzio's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asc33nzio&layout=normal&theme=radical&hide_border=false&include_all_commits=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=asc33nzio&show_icons=true&include_all_commits=true&theme=radical&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="asc33nzio's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asc33nzio&layout=donut-vertical&theme=radical&hide_border=false&langs_count=20" /></a> |
 | ------------- | ------------- |
 
-## ([LeetCode Stats](https://leetcode.com/asc33nzio))
+## [LeetCode Statistics](https://leetcode.com/asc33nzio)
 [![Amadeo Marli's LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=asc33nzio&theme=dark)](https://leetcode.com/asc33nzio)
