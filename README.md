@@ -22,7 +22,9 @@ Passionate business administration graduate and software engineer committed to d
 | ------------- | ------------- |
 
 <div align="center">
-    [<span style="color: #D73B7B; text-decoration: none;">LeetCode Statistics</span>](https://leetcode.com/asc33nzio)
+    <a href="https://leetcode.com/asc33nzio">
+        <p align="center" style="color: #D73B7B; border: none;">LeetCode Statistics</p>
+    </a>
     <a href="https://leetcode.com/asc33nzio">
         <img src="https://leetcode-stats-six.vercel.app/api?username=asc33nzio&theme=dark" alt="Amadeo Marli's LeetCode Stats" />
     </a>
