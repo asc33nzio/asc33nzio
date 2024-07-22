@@ -2,11 +2,17 @@
 
 <br />
 
-Passionate business administration graduate and software engineer committed to driving team success through diligence, meticulous attention to detail, and strong interpersonal skills. Possessing a comprehensive understanding of business processes, I excel in identifying pivotal components for achieving success. My enthusiasm for learning, coupled with a growth mindset, fuels my dedication to continual improvement and excellence within a collaborative team setting. Proficient in the MERN tech stack, I am adept at adapting to alternative stacks as needed. Eager to contribute my multifaceted skills to dynamic and innovative projects.
+Passionate business administration graduate and software engineer committed to driving team success through diligence, meticulous attention 
+to detail, and strong interpersonal skills.
+
+Possessing a comprehensive understanding of business processes, I excel in identifying pivotal components to realize results. My enthusiasm 
+for learning, coupled with a growth mindset, fuels my dedication to continual improvement and excellence within a collaborative team 
+setting. Proficient in the MERN tech stack, I am adept at adapting to alternative stacks as needed. Eager to contribute my multifaceted skills 
+to dynamic and innovative projects.
 
 **About Me**
 
-- 💼 Bootcamp Atendee at [Sea Labs Indonesia](https://sealabsindonesia.sea.com/)
+- 💼 Freelance Software Developer, Ex Bootcamp Atendee at [Sea Labs Indonesia](https://sealabsindonesia.sea.com/)
 
 - ❤️ I love to build innovative and impactful products
 
@@ -25,7 +31,5 @@ Passionate business administration graduate and software engineer committed to d
 
 <div align="center">
     <p align="center"><a href="https://leetcode.com/asc33nzio"><img width="75%" alt="L33tcode Stats" src="./assets/l33tcode-stats-header.png" /></a></p>
-        <a href="https://leetcode.com/asc33nzio">
-            <img src="https://leetcode-stats-six.vercel.app/api?username=asc33nzio&theme=dark" alt="Amadeo Marli's LeetCode Stats" />
-        </a>
+        ![L33tcode Stats](https://leetcard.jacoblin.cool/asc33nzio?theme=dark&ext=heatmap)
 </div>
