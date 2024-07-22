@@ -30,6 +30,7 @@ to dynamic and innovative projects.
 | ------------- | ------------- |
 
 <div align="center">
-    <p align="center"><a href="https://leetcode.com/asc33nzio"><img width="75%" alt="L33tcode Stats" src="./assets/l33tcode-stats-header.png" /></a></p>
-        ![L33tcode Stats](https://leetcard.jacoblin.cool/asc33nzio?theme=dark&ext=heatmap)
+    <p align="center"><a href="https://leetcode.com/asc33nzio"><img width="75%" alt="L33tcode Stats" src="./assets/l33tcode-stats-header.png" /></a></p>       
+
+[![L33tCode Stats](https://leetcard.jacoblin.cool/asc33nzio?theme=dark&ext=heatmap)](https://leetcode.com/asc33nzio) 
 </div>
