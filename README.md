@@ -14,38 +14,38 @@ Let’s build something that **works**—and keeps **working**.
 
 **About Me**
 
-- 💼 **Full‑Stack Engineer**—delivering web solutions that balance performance, reliability, and cost efficiency  
+-   💼 **Full‑Stack Engineer**—delivering web solutions that balance performance, reliability, and cost efficiency
 
-- 🚀 **Passionate about crafting user‑centric applications** that solve real‑world challenges and drive measurable business impact  
+-   🚀 **Passionate about crafting user‑centric applications** that solve real‑world challenges and drive measurable business impact
 
-- 🤝 For inquiries or collaboration: [asc33nzio.dev@gmail.com](mailto:asc33nzio.dev@gmail.com)
+-   🤝 For inquiries or collaboration: [asc33nzio.dev@gmail.com](mailto:asc33nzio.dev@gmail.com)
 
 <br />
 
-<code><a href="https://git-scm.com/"><img height="30" alt="Git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" /></a></code>
-<code><a href="https://code.visualstudio.com/"><img height="30" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" /></a></code>
-<code><a href="https://www.postgresql.org/"><img height="30" alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" /></a></code>
-<code><a href="https://www.gnu.org/software/bash/"><img height="30" alt="Bash" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" /></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /></a></code>
-<code><a href="https://www.typescriptlang.org/"><img height="30" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" /></a></code>
-<code><a href="https://go.dev/"><img height="30" alt="Golang" src="https://raw.githubusercontent.com/github/explore/1e02e89547e28fdbf0111fdf2c7b725010242d89/topics/go/go.png" /></a></code>
-<code><a href="https://www.nginx.com/"><img height="30" alt="Nginx" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" /></a></code>
-<code><a href="https://nodejs.org/"><img height="30" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" /></a></code>
-<code><a href="https://expressjs.com/"><img height="30" alt="Express" src="./assets/icons/expressjs.png" /></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="30" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" /></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="30" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" /></a></code>
-<code><a href="https://reactjs.org/"><img height="30" alt="React" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" /></a></code>
-<code><a href="https://nextjs.org/"><img height="30" alt="Next.js" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" /></a></code>
-<code><a href="https://styled-components.com/"><img height="30" alt="styled-components" src="https://raw.githubusercontent.com/github/explore/master/topics/styled-components/styled-components.png" /></a></code>
-<code><a href="https://redux.js.org/"><img height="30" alt="Redux" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" /></a></code>
-<code><a href="https://babeljs.io/"><img height="30" alt="Babel" src="https://raw.githubusercontent.com/github/explore/master/topics/babel/babel.png" /></a></code>
-<code><a href="https://axios-http.com/"><img height="30" alt="Axios" src="./assets/icons/axios.png" /></a></code>
-<code><a href="https://www.chartjs.org/"><img height="30" alt="Chart.js" src="./assets/icons/chartjs.png" /></a></code>
-<code><a href="https://jwt.io/"><img height="30" alt="JWT" src="./assets/icons/jwt.png" /></a></code>
-<code><a href="https://cloudinary.com/"><img height="30" alt="Cloudinary" src="./assets/icons/cloudinary.png" /></a></code>
-<code><a href="https://pm2.keymetrics.io/"><img height="30" alt="PM2" src="./assets/icons/pm2.png" /></a></code>
-<code><a href="https://www.brevo.com/"><img height="30" alt="Sendinblue (Brevo)" src="./assets/icons/sendinblue.png" /></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API"><img height="30" alt="Web Push" src="./assets/icons/web-push.png" /></a></code>
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="Git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" /></code></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" /></code></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" /></code></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="Bash" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" /></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /></code></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" /></code></a>
+<a href="https://go.dev/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="Golang" src="https://raw.githubusercontent.com/github/explore/1e02e89547e28fdbf0111fdf2c7b725010242d89/topics/go/go.png" /></code></a>
+<a href="https://www.nginx.com/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="Nginx" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" /></code></a>
+<a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" /></code></a>
+<a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="Express" src="./assets/icons/expressjs.png" /></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" /></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" /></code></a>
+<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="React" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" /></code></a>
+<a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="Next.js" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" /></code></a>
+<a href="https://styled-components.com/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="styled-components" src="https://raw.githubusercontent.com/github/explore/master/topics/styled-components/styled-components.png" /></code></a>
+<a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="Redux" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" /></code></a>
+<a href="https://babeljs.io/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="Babel" src="https://raw.githubusercontent.com/github/explore/master/topics/babel/babel.png" /></code></a>
+<a href="https://axios-http.com/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="Axios" src="./assets/icons/axios.png" /></code></a>
+<a href="https://www.chartjs.org/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="Chart.js" src="./assets/icons/chartjs.png" /></code></a>
+<a href="https://jwt.io/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="JWT" src="./assets/icons/jwt.png" /></code></a>
+<a href="https://cloudinary.com/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="Cloudinary" src="./assets/icons/cloudinary.png" /></code></a>
+<a href="https://pm2.keymetrics.io/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="PM2" src="./assets/icons/pm2.png" /></code></a>
+<a href="https://www.brevo.com/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="Sendinblue (Brevo)" src="./assets/icons/sendinblue.png" /></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="30" alt="Web Push" src="./assets/icons/web-push.png" /></code></a>
 
 <br />
 
