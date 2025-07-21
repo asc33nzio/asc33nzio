@@ -23,11 +23,7 @@ Let’s build something that **works**—and keeps **working**.
 <br />
 
 <div align="center">
-    <code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;">
-    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img height="50" alt="Git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-    </a>
-    </code>
+    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="50" alt="Git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" /></code></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="50" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" /></code></a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="50" alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" /></code></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"><code style="display: inline-flex; align-items: center; padding: 4px; border-radius: 6px; background-color: #333333;"><img height="50" alt="Bash" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" /></code></a>
