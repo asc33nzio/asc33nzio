@@ -2,7 +2,7 @@
 
 <br />
 
-**Bringing a background in business administration and software engineering, I bridge the gap between strategy and tech through hands‑on engineering that drives impact.**
+**Bringing a background in business administration and software engineering, I bridge the gap between strategy and tech through hands‑on engineering that drives measurable impact.**
 
 From prototype to production, I take full **end-to-end ownership**—architecture, code quality, deployment, monitoring, and real‑time support.
 
